@@ -1,4 +1,4 @@
-How to run the Doctor Appointment Management System Project Using PHP and MySQL
+## How to run the Doctor Appointment Management System Project Using PHP and MySQL
 
 1. Download the zip file
 
@@ -14,7 +14,7 @@ How to run the Doctor Appointment Management System Project Using PHP and MySQL
 
 7. Run the script http://localhost/dams
 
-Doctor Login
+## Doctor Login
 
 Username: anu@gmail.com
 
