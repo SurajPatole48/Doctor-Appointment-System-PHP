@@ -11,10 +11,10 @@ This project is a Doctor Appointment System built using PHP. It allows patients 
 - Search Functionality: Users can search for doctors based on specialization or name.
 
 ## Technologies Used
-Backend: PHP, MySQL
-Frontend: HTML, CSS, JavaScript
-Database: MySQL
-Server: Apache
+- Backend: PHP, MySQL
+- Frontend: HTML, CSS, JavaScript
+- Database: MySQL
+- Server: Apache
 
 ## Installation
 1. Clone the repository:
