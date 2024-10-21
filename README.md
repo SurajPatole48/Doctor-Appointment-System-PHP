@@ -71,3 +71,16 @@ Username: anu@gmail.com
 Password: Test@123
 
 Or Register a new user.
+
+## Contributors ✨
+- Shravan Dalavi
+  - Contact: shravandalavi137@gmail.com
+  - GitHub: [Profile](https://github.com/ShravanDalavi)
+    
+- Ashwini Sonawane
+  - Contact: ashwinisonawane@gmail.com
+  - GitHub:  [Profile](https://github.com/SonawaneAshwini)
+    
+**If you like this tutorial, please [give it a ⭐ star](https://github.com/ShravanDalavi/Web-Mini-Projects).**
+
+**Thank you for visiting my repository! I hope you find my projects interesting and useful. 😊**
