@@ -68,7 +68,7 @@ define('DB_NAME', 'doctor_appointment_system');
 
 Username: anu@gmail.com
 
-Password: Test@123
+Password: 123456
 
 Or Register a new user.
 
